@@ -4,6 +4,8 @@
 
 The motivation behind this website was to learn how to be able to read the code and see how it works. Comments were added to show understanding of code/CSS and divs were replaced with their proper semantic HTML. This webpage shows familiarty and understanding of the basics of HTML and CSS learned in the first week of bootcamp. 
 
+![Alt text](image.png)
+
 ## Installation
 
 N/A.
